@@ -31,6 +31,8 @@ github_username:  m_sreedev
 theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 
 collections:
