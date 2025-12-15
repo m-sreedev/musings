@@ -21,7 +21,18 @@ If old Rief takes a very large number of steps like these, where do you think he
 Ans : He's most likely to end up at the lamp post, from where he started.
 (Dr.Reif hereby pemits you to get drunk if you got this right.)
 
-What Reif performed is known as a **Classical Random Walk**. Given below is the probability vs final position for Dr. Reif : 
+What Reif performed is known as a **Classical Random Walk**. Given below is the probability vs final position for a simulation of Dr. Reif's shenanigans: 
+
+<div style="text-align: center;">
+<figure>
+<img src = "{{site.url}}{{'media/classical_walk.png' | relative_url}}" height = "300" alt = "Probability density function for the final position of a Classical Walker">
+<figcaption>What a nice Gaussian</figcaption>
+</figure>
+</div>
+
+## ELI5 Rules of Quantum Mechanics
+
+> Please skip if you have 
 
 <hr>
 
