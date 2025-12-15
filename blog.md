@@ -5,4 +5,4 @@ description: Here be writings
 permalink: /blog
 ---
 
-Here be my mundane thoughts (OR SPAM).
+Here be my mundane thoughts.

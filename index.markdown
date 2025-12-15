@@ -17,4 +17,4 @@ I also play the [Mridangam](https://en.wikipedia.org/wiki/Mridangam) (and I love
 
 If you have nothing else better to do, go read  [my ~~glorified diary~~ blog.](blog)
 
-> My [email]("mailto:sreedevmelemadom@gmail.com"). Feel free to treat it like a reddit comment section.
+> My [email]("mailto:sreedevmelemadom@gmail.com").(I love pen pals.)
